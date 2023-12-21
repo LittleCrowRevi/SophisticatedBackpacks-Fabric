@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.p3pp3rf1y.sophisticatedbackpacks.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
